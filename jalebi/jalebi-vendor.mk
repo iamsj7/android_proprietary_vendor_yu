@@ -69,7 +69,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/jalebi/proprietary/etc/permissions/dpmapi.xml:system/etc/permissions/dpmapi.xml \
     vendor/yu/jalebi/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/yu/jalebi/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
-    vendor/yu/jalebi/proprietary/vendor/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
+    vendor/yu/jalebi/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
     vendor/yu/jalebi/proprietary/framework/cneapiclient.jar:system/framework/cneapiclient.jar \
     vendor/yu/jalebi/proprietary/framework/com.qti.dpmframework.jar:system/framework/com.qti.dpmframework.jar \
     vendor/yu/jalebi/proprietary/framework/com.qti.location.sdk.jar:system/framework/com.qti.location.sdk.jar \
